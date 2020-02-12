@@ -1,4 +1,4 @@
-]## Flix Part 2
+## Flix Part 2
 
 ### User Stories
 
@@ -19,7 +19,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://imgur.com/g2VIx1R.gif" width=250><br>
+<img src="https://media.giphy.com/media/dXRK63Y2W4mO2MMMt7/giphy.gif" width=250><br>
 
 ### Notes
 
@@ -81,7 +81,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/AYk71ST.gif" width=250><br>
+<img src="https://media.giphy.com/media/dZu4WoVgUG9rZR9ISv/giphy.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
